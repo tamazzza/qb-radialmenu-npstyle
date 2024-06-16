@@ -2,7 +2,7 @@ Config = {}
 
 
 
-Config.EnableExtraMenu = true
+Config.EnableExtraMenu = false
 
 Config.MenuItems = {
     [1] = {
